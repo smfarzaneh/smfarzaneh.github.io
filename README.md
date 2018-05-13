@@ -3,6 +3,8 @@ title: Seyed Mohammad Farzaneh
 layout: post
 ---
 
+Personal
+
 [Projects](#projects)<br/>
 [Academics](#academics)<br/>
 [Reading List](#reading-list)<br/>
