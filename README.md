@@ -1,6 +1,6 @@
-[Projects](#projects)<br/>
-[Academics](#academics)<br/>
-[Reading List](#reading-list)<br/>
+[Projects](#projects) | 
+[Academics](#academics) | 
+[Reading List](#reading-list)
 
 ## Projects
 
