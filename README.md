@@ -1,4 +1,7 @@
-# Seyed Mohammad Farzaneh
+---
+title: Seyed Mohammad Farzaneh
+layout: post
+---
 
 [Projects](#projects)<br/>
 [Academics](#academics)<br/>
