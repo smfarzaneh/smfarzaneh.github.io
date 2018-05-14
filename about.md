@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there, I am **Seyed Mohammad Farzaneh**, a PhD student at New York University working in the field of condensed matter physics. 
+I do mostly numerical calculations, trying to learn more about the physics of information processing. 
+You can find out more in my [academic](/academics/) webpage. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I also write about books that I enjoyed reading and learned a lot from. Check out my [reading list](/books/). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
