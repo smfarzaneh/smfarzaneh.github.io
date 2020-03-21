@@ -60,3 +60,29 @@ Number of IRs = Number of Classes.
 4. First column's (E) elements are $\ell_j$ for each $\Gamma_j$.
 5. Orthogonality of row characters.
 6. Orthogonality of column characters (second orthogonality). 
+
+Rotation symmetries ($C_n$) in a Bravais lattice can only occur for $n=1, 2, 3, 4, $ and $6$. 
+
+## Chapter 4: Basis Functions 
+Basis functions are not unique. 
+Basis vector for the $j$-th **component/partner** of $\Gamma_n$ IR is denoted by $|\Gamma_n j\rangle$.  
+Symmetry operation: $$\hat{P}_R |\Gamma_n \alpha\rangle = \sum_j D_{j\alpha}^{(\Gamma_n)}|\Gamma_n j\rangle$$. (Eq 4.1)  
+Orthogonality: $$\langle \Gamma_n j|\Gamma_{n'} j'\rangle = \delta_{\Gamma_n\Gamma_{n'}}\delta_{jj'}$$. (Eq 4.2)  
+Matrix elements: $$D_{j\alpha}^{(\Gamma_n)} = \langle \Gamma_n j|\hat{P}_R|\Gamma_n\alpha\rangle$$. (Eq 4.5)  
+Basis function in terms of coordinates: $$\hat{P}_R f(x, y, z) = f'(x, y, z) = f(\hat{P}_Rx, \hat{P}_Ry, \hat{P}_Rz)$$. (Eq 4.6)  
+**Projection** operator: $$\hat{P}_{(k\ell)}^{\Gamma_n} |\Gamma_n \ell\rangle = |\Gamma_n k\rangle $$. (Eq 4.22)  
+Projection operator in terms of symmetry operators: $$\hat{P}_{(k\ell)}^{\Gamma_n} = \frac{\ell_n}{h}\sum_R [D_{k\ell}^{(\Gamma_n)}(R)]^*\hat{P}_R$$. (Eq 4.28)  
+For an **arbitrary function** $$F = \sum_{\Gamma_n'}\sum_{j'}f_{j'}^{(\Gamma_{n'})}|\Gamma_{n'} j'\rangle$$, (Eq 4.31), we we can find the basis functions contained in it by applying the projection operator, i.e. $$\hat{P}_{(kk}^{\Gamma_n} F = f_{j'}^{(\Gamma_{n'})} |\Gamma_n k\rangle$$. (Eq 35)  
+Applying the projection operator on an **atomic orbital** leads to a linear combination, of those orbitals on different equivalent atoms, that make up a basis functions. 
+
+
+## Chapter 5: Atomic Orbitals in a Crystal Potential 
+Spherical symmetry is described by the **full rotation group** where the basis functions are spherical harmonics $Y_{\ell m}(\theta, \phi)$.  
+Crystal field potential $V_\text{xtal}$ lowers the symmetry so the basis functions become a linear combination of spherical harmonics.  
+$$\hat{P}_R Y_{\ell m}(\theta', \phi') = \sum_{m'} D_{m'm}^{(\ell)}(R)Y_{\ell m'}(\theta, \phi)$$. (Eq 5.7)  
+For rotations along a given $z$-axis $D^{(\ell)}(R)$ is diagonal. i.e. since $$\hat{P}_\alpha Y_{\ell m}(\theta, \phi) = e^{-im\alpha} Y_{\ell m}(\theta, \phi)$$ (Eq 5.7), then $$D_{m'm}^{(\ell)}(\alpha) = e^{-im\alpha} \delta_{m'm}$$ (Eq 5.8).  
+Character of **rotation**: $\chi^{(\ell)}(\alpha) = \frac{\sin((\ell + 1/2)\alpha)}{\sin(\alpha/2)}$. (Eq 5.10)  
+For **inversion:** $i Y_{\ell m}(\theta, \phi) = (-1)^{\ell} Y_{\ell m}(\theta, \phi)$, therefore, $\chi^{(\ell)}(i)= (-1)^{\ell} (2\ell + 1)$. (Eq 5.13)  
+For **improper rotation:** $\chi^{(\ell)}(S_n)= \chi^{(\ell)}(C_{n/2}\otimes i) = (-1)^{\ell}\frac{\sin((\ell + 1/2)\alpha)}{\sin(\alpha/2)}$. (Eq 5.15)  
+
+## Chapter 6: Selection Rules and Direct Products 
