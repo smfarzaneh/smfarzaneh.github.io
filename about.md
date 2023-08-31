@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: false
 ---
 
 Hi there, I am **Seyed Mohammad Farzaneh**, a PhD student at New York University working in the field of condensed matter physics. 

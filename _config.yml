@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: S. M. Farzaneh
-author: Seyed Mohammad Farzaneh
+author: S. Mohammad Farzaneh
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  An engineer learning Physics. 
+description: >- # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  smfarzaneh
@@ -29,6 +28,9 @@ plugins:
   - jekyll-feed
 
 show_excerpts: true 
+
+minima:
+  skin: solarized-light
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
