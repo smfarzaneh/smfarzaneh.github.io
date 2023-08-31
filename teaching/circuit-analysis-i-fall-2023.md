@@ -10,7 +10,7 @@ exclude: true
 **Sessions**: Thu 8:30 - 11 AM (Lab)  
 **Office hour**: Thu 11 AM - 12 PM  
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
-**Grading**: Attendance, lab reports, and lab exams comprise 25% of your total course grade. 
+**Grading**: Attendance, lab reports, and lab exams comprise 20% of your total course grade. 
 
 ## Requirements: 
 **Digital Multimeter (DMM)**: Everyone needs to bring a digital multimeter of their own. You have two weeks to obtain yours since our first experiemnt will be on week 3.  
