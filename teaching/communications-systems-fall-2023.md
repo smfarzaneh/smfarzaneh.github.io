@@ -5,10 +5,12 @@ permalink: /teaching/communications-systems-fall-2023
 exclude: true
 ---
 **Course Number**: EET3202  
-**University**: New York City College of Technology  
+**College**: New York City College of Technology  
 **Semester**: Fall 2023  
-**Sessions**: Tuesdays 2:30 - 5 PM (Lecture), Thursdays 2:30 - 5 PM (Lab)  
-**Contact**: farzaneh@nyu.edu  
+**Sessions**: Tuesdays 2:30 - 5 PM (online lecture), Thursdays 2:30 - 5 PM (in-person lab)  
+**Location**: Voorhees Hall 706  
+**Office Hour**: Tuesday 5 - 6 PM (online)  
+**Contact**: seyed.farzaneh75@citytech.cuny.edu  
 
 **Quick Access**: 
 - [Course Outline](#course-outline)
@@ -61,7 +63,7 @@ City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/
 
 | Homework | Solution | Deadline | 
 | --- | --- | --- | 
-| [homework-01.pdf](){:target="_blank"} |  | Tuesday Sep. 12 |  
+| [homework-01]({{ site.url }}/teaching/pdf/eet3202-hw-01.pdf){:target="_blank"} |  | Thursday Sep. 7 |  
 
 
 ## Quizzes

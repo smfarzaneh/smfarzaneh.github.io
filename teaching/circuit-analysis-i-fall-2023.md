@@ -7,7 +7,8 @@ exclude: true
 **Course Number**: EET1122  
 **College**: New York City College of Technology  
 **Semester**: Fall 2023  
-**Sessions**: Thu 8:30 - 11 AM (Lab)  
+**Sessions**: Thu 8:30 - 11 AM (Lab)
+**Location**: Voorhees Hall 716  
 **Office Hour**: Thu 11 AM - 12 PM  
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
 **Grading**: Attendance, lab reports, and lab exams comprise 20% of your total course grade.  
