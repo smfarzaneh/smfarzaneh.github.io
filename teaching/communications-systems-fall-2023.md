@@ -30,28 +30,31 @@ exclude: true
 
 **Important Dates**: 
 - First session: Tuesday Aug. 29   
-- Midterm Exam: Tuesday Oct. 17    
-- Last session: Tuesday Dec. 5    
+- Last session: Tuesday Dec. 12    
+- Midterm Exam: Thursday Oct. 19    
 - Final Exam: Tuesday Dec. 19  
-
-The official course outline is [here](https://www.citytech.cuny.edu/electrical-telecomm/course-listing.aspx){:target="_blank"}.  
 
 ## Schedule
 
-| Week | Lecture | Lab |
+| Week | Tuesday | Thursday |
 |---|---|---|
-| 1 | Signals and Modulation, Why do we modulate?, How do we Modulate? , Analog Modulation, Digital Modulation. | Modeling equations using TIMS equipment. |   
-| 2, 3 | Principles of AM, DSB SC, SSB, and VSB: modulators and demodulators, carrier acquisition, superheterodyne AM receiver. | DSB-SC generation, Amplitude Modulation, Envelope recovery | 
-| 4, 5 | Angle (Exponential) Modulation : FM and PM principles, modulators, demodulators. | FM using a VCO, FM demodulation with PLL | 
-| 6, 7 | Sampling and Pulse Code Modulation: Sampling Theorem, anti-aliasing filter, maximum information rate, pulse code modulation (PCM), quantizing and companding, transmission bandwidth and output signal to noise ratio (SNR). | Natural and S&H sampling |  
-| Tuesday Oct. 17 | Midterm Exam | | 
-| 8 | Delta Modulation: Threshold of coding and overloading, adaptive delta modulation (ADM). Signal to noise ratio (SNR). | PCM |  
-| 9 | Digital data transmission: Line coding, pulse shaping, regenerative repeaters, digital carrier systems, digital multiplexing. | Delta modulation |  
-| 10, 11 | Information Theory: Entropy coding. Huffman coding, Shannon-Fano coding, code efficiency, redundancy, Lempel-Ziv coding, channel capacity. | Line codes |  
-| 12, 13 | Error correcting codes: Code efficiency, Hamming codes, Hamming distance, binary symmetric channel, linear block codes, systematic codes, parity check bits, syndrome, generator matrix, cyclic codes, burst-error detecting and correcting codes, convolutional coding. Code tree | ASK, Entropy coding | 
-| 14 | Emerging Technologies: Emerging digital communications technologies | Error correcting codes |  
-| Tuesday Dec. 19 | Final Exam | | 
+| 1 | Lecture #1: Introduction to communication systems, signal energy and power | Lecture #2: Signal spectra and Fourier series |   
+| 2 | Lecture #3: Fourier transform and properties | Lecture #4: Linear time-invariant systems | 
+| 3 | Lecture #5: Analog communication: amplitude modulation I | Lab #1: Modeling equations using TIMS equipment | 
+| 4 | Lecture #6: Analog communication: amplitude modulation II | Lab #2: DSB-SC generation, Amplitude Modulation, Envelope recovery | 
+| 5 | Lecture #7: Analog communication: Angle Modulation I | Lab #3: FM using a VCO, FM demodulation with PLL | 
+| 6 | Lecture #8: Analog communication: Angle Modulation I  | Lecture #9: Digital communication: sampling and pulse code modulation I | 
+| 7 | Lecture #10: Digital communication: sampling and pulse code modulation II | Lab #4: Natural and S&H sampling |  
+| 8 | Midterm review session | Midterm Exam (Oct 19) | 
+| 9 | Lecture #11: Digital communication: delta modulation | Lab #5: pulse code modulation |  
+| 10 | Lecture #12: Digital communication: digital data transmission | Lab #6: Delta modulation |  
+| 11 | Lecture #13: information theory I | Lab #7: Line codes |  
+| 12 | Lecture #14: information theory II | Lab #8: Line codes |  
+| 13 | Lecture #15: error correcting codes I | Lab #9: ASK, Entropy coding | 
+| 14 | Lecture #16: error correcting codes II | Lab #10: Error correcting codes |  
+| 15 | Final Exam (Dec 19) |  | 
 
+The official course outline is [here](https://www.citytech.cuny.edu/electrical-telecomm/course-listing.aspx){:target="_blank"}.  
 City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/registrar/academic-calendar.aspx){:target="_blank"}.  
 
 ## Homeworks 
