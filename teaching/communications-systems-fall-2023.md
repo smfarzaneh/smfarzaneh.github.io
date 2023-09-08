@@ -69,6 +69,7 @@ City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/
 | Homework | Solution | Deadline | 
 | --- | --- | --- | 
 | [homework-01]({{ site.url }}/teaching/pdf/eet3202-hw-01.pdf){:target="_blank"} |  | Thursday Sep. 7 |  
+| [homework-02]({{ site.url }}/teaching/pdf/eet3202-hw-02.pdf){:target="_blank"} |  | Thursday Sep. 14 |  
 
 
 ## Quizzes
@@ -77,3 +78,6 @@ There will be occasional quizzes throughout the semester but they will be announ
 ## Labs
 Lab reports and performance comprise 25% of the total grade.  
 The `pdf` version of the lab manual is [here]({{ site.url }}/teaching/pdf/eet3202-lab-manual.pdf){:target="_blank"}.  
+
+* Make sure to read the lab manual for each experiment **beforehand**. This way you will spend less time in the lab and can finish your experiment in a timely manner.  
+* 
