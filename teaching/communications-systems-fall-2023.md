@@ -8,7 +8,7 @@ exclude: true
 **College**: New York City College of Technology  
 **Semester**: Fall 2023  
 **Sessions**: Tuesdays 2:30 - 5 PM (online lecture), Thursdays 2:30 - 5 PM (in-person lab)  
-**Location**: Voorhees Hall 706  
+**Location**: Voorhees Hall 709  
 **Office Hour**: Tuesday 5 - 6 PM (online)  
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
 
@@ -80,4 +80,3 @@ Lab reports and performance comprise 25% of the total grade.
 The `pdf` version of the lab manual is [here]({{ site.url }}/teaching/pdf/eet3202-lab-manual.pdf){:target="_blank"}.  
 
 * Make sure to read the lab manual for each experiment **beforehand**. This way you will spend less time in the lab and can finish your experiment in a timely manner.  
-* 
