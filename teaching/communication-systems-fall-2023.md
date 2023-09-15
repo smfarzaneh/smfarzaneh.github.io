@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Principles of Communications Systems
-permalink: /teaching/communications-systems-fall-2023
+title:  Principles of Communication Systems
+permalink: /teaching/communication-systems-fall-2023
 exclude: true
 ---
 **Course Number**: EET3202  

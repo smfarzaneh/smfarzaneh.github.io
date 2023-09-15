@@ -7,7 +7,7 @@ exclude: false
 
 ### Fall 2023
 
-- [Principles of Communications Systems (EET 3202) at City Tech](/teaching/communications-systems-fall-2023)
+- [Principles of Communication Systems (EET 3202) at City Tech](/teaching/communication-systems-fall-2023)
 - [Circuit Analysis I (EET 1122) at City Tech](/teaching/circuit-analysis-i-fall-2023)
 
 ### Summer 2023
