@@ -31,7 +31,7 @@ exclude: true
 **Important Dates**: 
 - First session: Tuesday Aug. 29   
 - Last session: Thursday Dec. 14   
-- Midterm Exam: Thursday Oct. 17    
+- Midterm Exam: Tuesday Oct. 17    
 - Final Exam: Tuesday Dec. 19  
 
 ## Schedule
