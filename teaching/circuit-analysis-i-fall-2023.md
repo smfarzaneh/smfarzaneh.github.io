@@ -55,9 +55,9 @@ City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/
 - Always use complete sentences when describing the experiment or the results. 
 - Proper page numbering
 - Content of the report should include
-- Abstract (1 paragraph): What is the aim of this particular experiment? What equipment are we using? What is the main result and conclusion of this experiment? 
-- Procedure (1 paragraph): How do we implement this experiment/circuit? What equipment do we use? What do we measure? 
-- Results (data tables or graphs): explain what they represent. All axes in a graph need to have proper labels. All physical quantities need proper units. 
-- Analysis (few paragraphs): compare results with expectation, explain your observations, list errors or non idealities that occur.
-- Answer to questions in the lab manual
-- Conclusion (1 paragraph): how successful the goals of this lab were met, efficacy of the procedure, limitations, and/or other methods (if possible)
+    - Abstract (1 paragraph): What is the aim of this particular experiment? What equipment are we using? What is the main result and conclusion of this experiment? 
+    - Procedure (1 paragraph): How do we implement this experiment/circuit? What equipment do we use? What do we measure? 
+    - Results (data tables or graphs): explain what they represent. All axes in a graph need to have proper labels. All physical quantities need proper units. 
+    - Analysis (few paragraphs): compare results with expectation, explain your observations, list errors or non idealities that occur.
+    - Answer to questions in the lab manual
+    - Conclusion (1 paragraph): how successful the goals of this lab were met, efficacy of the procedure, limitations, and/or other methods (if possible)

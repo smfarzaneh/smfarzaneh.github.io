@@ -43,10 +43,10 @@ exclude: true
 | 3 | Lecture #4: Analog communication: amplitude modulation I | Lab #2: DSB-SC generation |   
 | 4 | Lecture #5: Analog communication: amplitude modulation II | Lab #3: Amplitude Modulation |  
 | 5 | Lecture #6: Analog communication: Angle Modulation I | Lab #4: Envelope recovery |  
-| 6 | Lecture #7: Analog communication: Angle Modulation II | Lab #5: Intro to FM using a VCO |  
-| 7 | Lecture #8: Digital communication: sampling and pulse code modulation I | Lab #6: FM demodulation with PLL |  
+| 6 | Lecture #7: Angle Modulation II, Lecture #8: Digital communication: sampling | Lab #5: intro to FM using a VCO |  
+| 7 | [No lecture, Monday schedule] | Lab #6: FM demodulation with PLL |  
 | 8 | Midterm Exam (Oct 17) | Lab #7: Natural and S&H sampling |  
-| 9 | Lecture #9: Digital communication: sampling and pulse code modulation II | Lab #8: pulse code modulation (PCM) |  
+| 9 | Lecture #9: Digital communication: pulse code modulation | Lab #8: pulse code modulation (PCM) |  
 | 10 | Lecture #10: Digital communication: delta modulation | Lab #9: PCM decoding |  
 | 11 | Lecture #11: Digital communication: digital data transmission | Lab #10: Delta modulation |  
 | 12 | Lecture #12: information theory I | Lab #11: Delta demodulation |  
@@ -69,9 +69,10 @@ City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/
 | Homework | Solutions | Deadline | 
 | --- | --- | --- | 
 | [homework-01]({{ site.url }}/teaching/pdf/eet3202-hw-01.pdf){:target="_blank"} | [solutions-01]({{ site.url }}/teaching/pdf/eet3202-sol-01.pdf){:target="_blank"} | Thursday Sep. 7 |  
-| [homework-02]({{ site.url }}/teaching/pdf/eet3202-hw-02.pdf){:target="_blank"} |  | Thursday Sep. 14 |  
+| [homework-02]({{ site.url }}/teaching/pdf/eet3202-hw-02.pdf){:target="_blank"} | [solutions-02]({{ site.url }}/teaching/pdf/eet3202-sol-02.pdf){:target="_blank"} | Thursday Sep. 14 |  
 | [homework-03]({{ site.url }}/teaching/pdf/eet3202-hw-03.pdf){:target="_blank"} |  | Thursday Sep. 21 |  
 | [homework-04]({{ site.url }}/teaching/pdf/eet3202-hw-04.pdf){:target="_blank"} |  | Thursday Sep. 28 |  
+| [homework-05]({{ site.url }}/teaching/pdf/eet3202-hw-05.pdf){:target="_blank"} |  | Thursday Oct. 05 |  
 
 
 ## Quizzes
