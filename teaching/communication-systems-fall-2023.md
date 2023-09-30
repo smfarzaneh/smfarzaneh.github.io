@@ -70,8 +70,8 @@ City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/
 | --- | --- | --- | 
 | [homework-01]({{ site.url }}/teaching/pdf/eet3202-hw-01.pdf){:target="_blank"} | [solutions-01]({{ site.url }}/teaching/pdf/eet3202-sol-01.pdf){:target="_blank"} | Thursday Sep. 7 |  
 | [homework-02]({{ site.url }}/teaching/pdf/eet3202-hw-02.pdf){:target="_blank"} | [solutions-02]({{ site.url }}/teaching/pdf/eet3202-sol-02.pdf){:target="_blank"} | Thursday Sep. 14 |  
-| [homework-03]({{ site.url }}/teaching/pdf/eet3202-hw-03.pdf){:target="_blank"} |  | Thursday Sep. 21 |  
-| [homework-04]({{ site.url }}/teaching/pdf/eet3202-hw-04.pdf){:target="_blank"} |  | Thursday Sep. 28 |  
+| [homework-03]({{ site.url }}/teaching/pdf/eet3202-hw-03.pdf){:target="_blank"} | [solutions-03]({{ site.url }}/teaching/pdf/eet3202-sol-03.pdf){:target="_blank"} | Thursday Sep. 21 |  
+| [homework-04]({{ site.url }}/teaching/pdf/eet3202-hw-04.pdf){:target="_blank"} | [solutions-04]({{ site.url }}/teaching/pdf/eet3202-sol-04.pdf){:target="_blank"} | Thursday Sep. 28 |  
 | [homework-05]({{ site.url }}/teaching/pdf/eet3202-hw-05.pdf){:target="_blank"} |  | Thursday Oct. 05 |  
 
 
