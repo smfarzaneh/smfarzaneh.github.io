@@ -9,7 +9,7 @@ exclude: true
 **Semester**: Fall 2023  
 **Sessions**: Tuesdays 2:30 - 5 PM (online lecture), Thursdays 2:30 - 5 PM (in-person lab)  
 **Location**: Voorhees Hall 709  
-**Office Hour**: Tuesday 5 - 6 PM (online)  
+**Office Hour**: Tuesday 5 - 6 PM and Friday 9 - 10 AM (online)  
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
 
 **Quick Access**: 
@@ -20,11 +20,12 @@ exclude: true
 - [Labs](#labs)
 
 ## Course Outline 
-**Description**:  
+**Description**: The first half of the course concerns analog communication systems including the amplitude and frequency modulations in addition to mathematical tools such as the Fourier transform which is used for analyzing signals and systems. 
+The second half concerns digital communication systems with a focus on analog to digital conversion, digital encoding techniques, information theory, and error correction.  
 **Credit hours**: 4 credits (3 classroom hours + 3 lab hours)  
 **Text Books**:  
 1. Carlson & Crilly, *Communication Systems*, McGraw Hill, 5th Ed, 2010  
-2. Lathi, *Modern Digital and Analog Communication Systems*, Oxford University Press, 4th Ed, 2008  
+2. Lathi & Ding, *Modern Digital and Analog Communication Systems*, Oxford University Press, 4th Ed, 2008  
 
 **Grading Policy**: Attendance, Homeworks, and Quizzes: 15%, Labs: 25%, Midterm Exam: 25%, Final Exam 35% 
 
@@ -74,6 +75,7 @@ City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/
 | [homework-04]({{ site.url }}/teaching/pdf/eet3202-hw-04.pdf){:target="_blank"} | [solutions-04]({{ site.url }}/teaching/pdf/eet3202-sol-04.pdf){:target="_blank"} | Thursday Sep. 28 |  
 | [homework-05]({{ site.url }}/teaching/pdf/eet3202-hw-05.pdf){:target="_blank"} | [solutions-05]({{ site.url }}/teaching/pdf/eet3202-sol-05.pdf){:target="_blank"} | Thursday Oct. 05 |  
 | [homework-06]({{ site.url }}/teaching/pdf/eet3202-hw-06.pdf){:target="_blank"} |  | Thursday Oct. 12 |  
+| [homework-07]({{ site.url }}/teaching/pdf/eet3202-hw-07.pdf){:target="_blank"} |  | Thursday Nov. 02 |  
 
 
 ## Quizzes
