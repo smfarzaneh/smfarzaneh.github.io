@@ -15,7 +15,7 @@ exclude: true
 **Quick Access**: 
 - [Course Outline](#course-outline)
 - [Schedule](#schedule) 
-- [Homeworks](#homeworks) 
+- [Homework Assignments](#assignments)
 - [Quizzes](#quizzes)
 - [Labs](#labs)
 
@@ -27,7 +27,7 @@ The second half concerns digital communication systems with a focus on analog to
 1. Carlson & Crilly, *Communication Systems*, McGraw Hill, 5th Ed, 2010  
 2. Lathi & Ding, *Modern Digital and Analog Communication Systems*, Oxford University Press, 4th Ed, 2008  
 
-**Grading Policy**: Attendance, Homeworks, and Quizzes: 15%, Labs: 25%, Midterm Exam: 25%, Final Exam 35% 
+**Grading Policy**: Attendance, Assignments, and Quizzes: 15%, Labs: 25%, Midterm Exam: 25%, Final Exam 35% 
 
 **Important Dates**: 
 - First session: Tuesday Aug. 29   
@@ -45,38 +45,39 @@ The second half concerns digital communication systems with a focus on analog to
 | 4 | Lecture #5: Analog communication: amplitude modulation II | Lab #3: Amplitude Modulation |  
 | 5 | Lecture #6: Analog communication: Angle Modulation I | Lab #4: Envelope recovery |  
 | 6 | Lecture #7: Angle Modulation II, Lecture #8: Digital communication: sampling | Lab #5: intro to FM using a VCO |  
-| 7 | [No lecture, Monday schedule] | Lab #6: FM demodulation with PLL |  
+| 7 | [No lecture, Monday schedule] | Midterm review session |  
 | 8 | Midterm Exam (Oct 17) | Lab #7: Natural and S&H sampling |  
 | 9 | Lecture #9: Digital communication: pulse code modulation | Lab #8: pulse code modulation (PCM) |  
 | 10 | Lecture #10: Digital communication: delta modulation | Lab #9: PCM decoding |  
-| 11 | Lecture #11: Digital communication: digital data transmission | Lab #10: Delta modulation |  
-| 12 | Lecture #12: information theory I | Lab #11: Delta demodulation |  
-| 13 | Lecture #13: information theory II | Thanksgiving (Nov 23) |  
-| 14 | Lecture #14: error correcting codes I | Lab #12: line coding |   
-| 15 | Lecture #15: error correcting codes II | Lab #13: Amplitude Shift Keying (ASK) |  
-| 16 | Final review session | Lab #14: Block coding & decoding |  
+| 11 | Lecture #11: Digital communication: line coding | Lab #10: Delta modulation |  
+| 12 | Lecture #11: Digital communication: carrier modulation | Lab #11: Delta demodulation |  
+| 13 | Lecture #13: information theory I: Shannon entropy | Thanksgiving (Nov 23) |  
+| 14 | Lecture #14: information theory II: error correction | Lab #12: line coding |   
+| 15 | Final review session | Lab #13: Amplitude Shift Keying (ASK) |  
+| 16 | [No lecture, Reading day] | Lab #14: Block coding & decoding |  
 | 17 | Final Exam (Dec 19) | |  
 
 The official course outline is [here](https://www.citytech.cuny.edu/electrical-telecomm/course-listing.aspx){:target="_blank"}.  
 City Tech's Fall 2023 academic calendar is [here](https://www.citytech.cuny.edu/registrar/academic-calendar.aspx){:target="_blank"}.  
 
-## Homeworks 
+## Homework Assignments
 - Deadlines are strict.
-- Homeworks are turned in at the beginning of each session.  
+- Assignments are turned in at the beginning of each session.  
 - Late submissions get a 50% penalty. 
-- Your lowest grade homework will be dropped. 
-- Homeworks need to be handwritten.  
+- Your lowest grade assignment will be dropped. 
+- Assignments need to be handwritten.  
 
-| Homework | Solutions | Deadline | 
+| HW Assignment | Solutions | Deadline | 
 | --- | --- | --- | 
-| [homework-01]({{ site.url }}/teaching/pdf/eet3202-hw-01.pdf){:target="_blank"} | [solutions-01]({{ site.url }}/teaching/pdf/eet3202-sol-01.pdf){:target="_blank"} | Thursday Sep. 7 |  
-| [homework-02]({{ site.url }}/teaching/pdf/eet3202-hw-02.pdf){:target="_blank"} | [solutions-02]({{ site.url }}/teaching/pdf/eet3202-sol-02.pdf){:target="_blank"} | Thursday Sep. 14 |  
-| [homework-03]({{ site.url }}/teaching/pdf/eet3202-hw-03.pdf){:target="_blank"} | [solutions-03]({{ site.url }}/teaching/pdf/eet3202-sol-03.pdf){:target="_blank"} | Thursday Sep. 21 |  
-| [homework-04]({{ site.url }}/teaching/pdf/eet3202-hw-04.pdf){:target="_blank"} | [solutions-04]({{ site.url }}/teaching/pdf/eet3202-sol-04.pdf){:target="_blank"} | Thursday Sep. 28 |  
-| [homework-05]({{ site.url }}/teaching/pdf/eet3202-hw-05.pdf){:target="_blank"} | [solutions-05]({{ site.url }}/teaching/pdf/eet3202-sol-05.pdf){:target="_blank"} | Thursday Oct. 05 |  
-| [homework-06]({{ site.url }}/teaching/pdf/eet3202-hw-06.pdf){:target="_blank"} | [solutions-06]({{ site.url }}/teaching/pdf/eet3202-sol-06.pdf){:target="_blank"} | Thursday Oct. 12 |  
-| [homework-07]({{ site.url }}/teaching/pdf/eet3202-hw-07.pdf){:target="_blank"} | [solutions-07]({{ site.url }}/teaching/pdf/eet3202-sol-07.pdf){:target="_blank"} | Thursday Nov. 02 |  
+| [homework-01]({{ site.url }}/teaching/pdf/eet3202-hw-01.pdf){:target="_blank"} |  | Thursday Sep. 07 |  
+| [homework-02]({{ site.url }}/teaching/pdf/eet3202-hw-02.pdf){:target="_blank"} |  | Thursday Sep. 14 |  
+| [homework-03]({{ site.url }}/teaching/pdf/eet3202-hw-03.pdf){:target="_blank"} |  | Thursday Sep. 21 |  
+| [homework-04]({{ site.url }}/teaching/pdf/eet3202-hw-04.pdf){:target="_blank"} |  | Thursday Sep. 28 |  
+| [homework-05]({{ site.url }}/teaching/pdf/eet3202-hw-05.pdf){:target="_blank"} |  | Thursday Oct. 05 |  
+| [homework-06]({{ site.url }}/teaching/pdf/eet3202-hw-06.pdf){:target="_blank"} |  | Thursday Oct. 12 |  
+| [homework-07]({{ site.url }}/teaching/pdf/eet3202-hw-07.pdf){:target="_blank"} |  | Thursday Nov. 02 |  
 | [homework-08]({{ site.url }}/teaching/pdf/eet3202-hw-08.pdf){:target="_blank"} |  | Thursday Nov. 16 |  
+| [homework-09]({{ site.url }}/teaching/pdf/eet3202-hw-09.pdf){:target="_blank"} |  | Thursday Dec. 07 |  
 
 
 ## Quizzes
