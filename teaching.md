@@ -5,6 +5,11 @@ permalink: /teaching/
 exclude: false
 ---
 
+### Spring 2024
+
+- [Principles of Communication Systems (EET 3202) at City Tech](/teaching/communication-systems-spring-2024)
+- [Circuit Analysis Laboratory (EET 2271) at City Tech](/teaching/circuit-analysis-lab-spring-2024)
+
 ### Fall 2023
 
 - [Principles of Communication Systems (EET 3202) at City Tech](/teaching/communication-systems-fall-2023)
