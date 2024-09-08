@@ -9,7 +9,7 @@ exclude: true
 **Semester**: Fall 2023  
 **Sessions**: Tuesdays 2:30 - 5 PM (online lecture), Thursdays 2:30 - 5 PM (in-person lab)  
 **Location**: Voorhees Hall 709  
-**Office Hour**: Tuesday 5 - 6 PM and Friday 9 - 10 AM (online)  
+**Office Hours**: Tuesday 5 - 6 PM and Friday 9 - 10 AM (online)  
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
 
 **Quick Access**: 

@@ -9,7 +9,7 @@ exclude: true
 **Semester**: Spring 2024  
 **Sessions**: Tuesday 6:00 - 8:30 PM  
 **Location**: Voorhees Hall 704  
-**Office Hour**:   
+**Office Hours**:   
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
 
 ## Requirements: 

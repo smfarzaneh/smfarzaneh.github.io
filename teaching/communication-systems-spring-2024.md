@@ -9,7 +9,7 @@ exclude: true
 **Semester**: Spring 2024  
 **Sessions**: Tuesdays 2:30 - 5 PM (online lecture), Thursdays 2:30 - 5 PM (in-person lab)  
 **Location**: Voorhees Hall 709  
-**Office Hour**: Tuesday 1 - 2 PM (online) and Thursday 5 - 6 PM (in-person after lab)  
+**Office Hours**: Tuesday 1 - 2 PM (online) and Thursday 5 - 6 PM (in-person after lab)  
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
 
 **Quick Access**: 

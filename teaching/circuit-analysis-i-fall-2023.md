@@ -9,7 +9,7 @@ exclude: true
 **Semester**: Fall 2023  
 **Sessions**: Thu 8:30 - 11 AM (Lab)  
 **Location**: Voorhees Hall 716  
-**Office Hour**: Thu 11 AM - 12 PM    
+**Office Hours**: Thu 11 AM - 12 PM    
 **Contact**: seyed.farzaneh75@citytech.cuny.edu  
 **Grading**: Attendance, lab reports, and lab exams comprise 20% of your total course grade.  
 **Lab Manual**: The `pdf` version of the lab manual is [here]({{ site.url }}/teaching/pdf/eet1122-lab-manual.pdf){:target="_blank"}.  
